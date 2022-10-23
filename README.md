@@ -1,2 +1,2 @@
 # github-tutorial-test
-Репозиторий для тренировки работы с системой контроля версий
+Repository for training with github
